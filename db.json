@@ -1,0 +1,53 @@
+{
+    "vuePersonnel":[
+        {
+            "date":"12/12/2022",
+            "createur":"Med Ahid",
+            "description":"pc.link1",
+            "nature":"Article"
+        },
+        {
+            "date":"30/12/2022",
+            "createur":"Yahya",
+            "description":"pc.link2",
+            "nature":"Commande"
+        }
+    ],
+    "vueGroupe":[
+        {
+            "id":1,
+            "uuid":"c01",
+            "nom": "group1"
+        },
+        {
+            "id":2,
+            "uuid":"c02",
+            "nom": "group2"
+        },
+        {
+            "id":3,
+            "uuid":"c03",
+            "nom": "group3"
+        }
+    ],
+    "vueGlobal":[
+        {
+            "id":1,
+            "uuid":"c01",
+            "nom": "group1",
+            "grpId":1
+        },
+        {
+            "id":2,
+            "uuid":"c02",
+            "nom": "group2",
+            "grpId":2
+        },
+        {
+            "id":3,
+            "uuid":"c03",
+            "nom": "group3",
+            "grpId":3
+        }
+    ]
+}
